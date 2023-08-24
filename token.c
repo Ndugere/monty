@@ -1,4 +1,3 @@
-#include <monty.h>
 #include <stdlib.h>
 
 char **strtow(char *str, char *delims);
