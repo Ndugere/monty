@@ -1,4 +1,4 @@
-#include <monty.h>
+#include <stdlib.h>
 
 char *get_int(int num);
 unsigned int _abs(int);
